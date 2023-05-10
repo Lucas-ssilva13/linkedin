@@ -1,0 +1,12 @@
+h1, h2, h3{
+    text-align: center;
+}
+article{
+    margin: 20px;
+    border: 1px solid black;
+    flex: 70%;
+    padding: 10px;
+}
+.cal{
+    margin-left: 5px;
+}

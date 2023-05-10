@@ -1,0 +1,74 @@
+aside{
+    margin: 20px;
+    flex: 30%;
+    border: 1px solid black;
+    padding: 10px;
+}
+aside > .foto{
+    height: 300px;
+    background-image: url(../imagens/Captura\ de\ tela\ 2023-05-04\ 092533.png);
+    background-position: center;
+    background-size: cover;
+}
+.info{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    grid-template-rows: 30px 30px 30px 30px;
+    align-items: center;
+}
+.icone2{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    
+}
+.icone3{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    
+}
+.icone4{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+}
+.skills > .skillsgrafico{
+    width: 100%;
+    border: 1px solid black;
+    background-color: #ccc;
+    border-radius: 30px;
+}
+.skillsgrafico > .preenchimento{
+    width: 95%;
+    border: 1px solid black;
+    background-color: rgb(88, 103, 100);
+    border-radius: 30px;
+}
+.skillsgrafico > .preenchimento1{
+    width: 90%;
+    border: 1px solid black;
+    background-color: rgb(88, 103, 100);
+    border-radius: 30px;
+}
+.skillsgrafico > .preenchimentoJS{
+    width: 20%;
+    border: 1px solid black;
+    background-color: rgb(88, 103, 100);
+    border-radius: 30px;
+}
+.skillsgrafico > .preenchimentoreact{
+    width: 10%;
+    border: 1px solid black;
+    background-color: rgb(88, 103, 100);
+    border-radius: 30px;
+}
+.skillsgrafico > .preenchimentoportugues{
+    width: 100%;
+    border: 1px solid black;
+    background-color: rgb(88, 103, 100);
+    border-radius: 30px;
+}
+.skillsgrafico > .preenchimentoingles{
+    width: 30%;
+    border: 1px solid black;
+    background-color: rgb(88, 103, 100);
+    border-radius: 30px;
+}
